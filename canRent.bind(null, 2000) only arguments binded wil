@@ -1,0 +1,2 @@
+canRent.bind(null, 2000) only arguments binded will be the second parameter, doesn't bind null 
+
