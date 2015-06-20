@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# Game of Life in JS
+Game of life rules: 
 
-Fullstack Academy workshop.
-=======
-# GameOfLife
->>>>>>> 5793a59270b36dbbf882d4c632523f170ffb6c09
+1) Alive cell - Fewer than 2 alive neighbours - dies (underpopulation).
+2) Alive cell - 2 or 3 neighbours - continues to live (perfect situation).
+3) Alive cell - More than 3 alive neighbours - dies (overpopulation).
+4) Dead cell - Exactly three alive neighbours - becomes alive (reproduction).
 
